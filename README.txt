@@ -1,1 +1,2 @@
 Primeiros passos.
+Conexão estabelecida.
